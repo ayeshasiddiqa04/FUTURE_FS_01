@@ -4,7 +4,7 @@ import About from "./components/About";
 import Skills from "./components/Skills";
 import Timeline from "./components/Timeline";
 import Projects from "./components/Projects";
-import GithubStats from "./components/GithubStats";
+import Highlights from "./components/Highlights";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
@@ -17,7 +17,7 @@ function App() {
       <Skills />
       <Timeline />
       <Projects />
-      <GithubStats />
+      <Highlights />
       <Contact />
       <Footer />
     </>
