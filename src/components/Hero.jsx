@@ -71,7 +71,13 @@ export default function Hero() {
           >
             LinkedIn
           </a>
-
+<a
+  href="/resume.pdf"
+  download
+  className="bg-purple-600 px-6 py-3 rounded-xl hover:bg-purple-700 transition"
+>
+  Download Resume
+</a>
           <a
             href="#projects"
             className="bg-purple-500 hover:bg-purple-400 px-6 py-3 rounded-xl transition-all duration-300 hover:scale-105"

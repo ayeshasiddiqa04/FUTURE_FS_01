@@ -84,13 +84,7 @@ export default function Contact() {
               </div>
             </div>
 
-            <div className="flex items-center gap-4 p-4 rounded-2xl bg-white/5">
-              <FaPhone className="text-cyan-400 text-2xl" />
-              <div>
-                <p className="text-gray-400">Phone</p>
-                <p>+91 7624887785</p>
-              </div>
-            </div>
+      
 
             <a
               href="https://github.com/ayeshasiddiqa04"
